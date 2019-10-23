@@ -22,7 +22,7 @@ To give you an idea of some purposes of models customizing have a look at a few 
 * Change the ``reviewSubject`` of a ``Review`` (in Sylius we have ``ProductReviews`` but you can imagine for instance a ``CustomerReview``)
 * Add ``icon`` to the ``PaymentMethod``
 
-And of course many similar operations limited only by your imagination.
+And of course many similar operations are limited only by your imagination.
 
 Let's now see how you should perform such customizations.
 
